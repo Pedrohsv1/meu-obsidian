@@ -140,10 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calculo/Unidade 2/4.0/4.5.md"
+                "file": "Calculo/Unidade 3/8.1.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 4.5"
+              "title": "Outline of 8.1"
             }
           },
           {
@@ -161,7 +161,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 255.5
+    "width": 366.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,7 +178,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "47b1bdb2175a60db",
+  "active": "34c6d4b92f3b75e9",
   "lastOpenFiles": [
     "Calculo/Unidade 2/3.0/3.10.md",
     "Calculo/Unidade 3/8.1.md",
