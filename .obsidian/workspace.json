@@ -21,8 +21,39 @@
               "icon": "lucide-file",
               "title": "8.1"
             }
+          },
+          {
+            "id": "b29fe76897aa55a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "-.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "-"
+            }
+          },
+          {
+            "id": "78bda9cda3c0d08d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "8.3.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "8.3"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -44,7 +75,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de arquivos"
             }
           },
           {
@@ -157,7 +188,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -165,23 +196,25 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-kanban:Criar um novo quadro": false,
       "obsidian-importer:Open Importer": false,
       "templater-obsidian:Templater": false,
-      "obsidian-kanban:Create new board": false,
       "obsidian-git:Open Git source control": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "34c6d4b92f3b75e9",
   "lastOpenFiles": [
-    "Calculo/Unidade 2/3.0/3.10.md",
+    "-.md",
+    "8.3.md",
     "Calculo/Unidade 3/8.1.md",
+    "Calculo/Unidade 2/3.0/3.10.md",
     "Calculo/Unidade 2/4.0/4.5.md",
     "README.md",
     "Calculo/Unidade 2/4.0/4.1.md",
@@ -224,8 +257,6 @@
     "Notion/Banco de dados NoSQL/Bancos de dados relacionais/Preparando o ambiente na Cloud com GCP/Preparando o ambiente na Cloud com GCP.md",
     "Notion/Banco de dados NoSQL/Bancos de dados relacionais/Introdução ao SQL/Introdução ao SQL.md",
     "Notion/Banco de dados NoSQL/Bancos de dados relacionais/Introdução ao PostgreSQL.md",
-    "Notion/Banco de dados NoSQL/Bancos de dados relacionais/Teorema CAP/Teorema CAP.md",
-    "Notion/Banco de dados NoSQL/Bancos de dados relacionais/Princípios ACID/Princípios ACID.md",
     "Untitled.canvas"
   ]
 }
